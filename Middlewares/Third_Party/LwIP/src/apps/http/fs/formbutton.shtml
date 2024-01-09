@@ -9,11 +9,9 @@
 
   <script src="<!--#lang-->"></script>
   <script src="js/jquerymin.js"></script>
-
 </head>
 
 <body>
-
   <center>
     <h1>NUCLEO-F767ZI</h1>
 
@@ -88,8 +86,6 @@
 
     });
 
-
   </script>
 </body>
-
 </html>
